@@ -6,7 +6,7 @@ Author = {Seyd Teymoor Seydi, Mojtaba Sadegh},
 Title = {Improved Burned Area Mapping Using Monotemporal Landsat-9 Imagery and Convolutional Shift-Transformer published},
 Journal  = {Measurement},
 Year = {2023}
-Link= {https://doi.org/10.1016/j.measurement.2023.112961}
+Link= {https://doi.org/10.1016/j.measurement.2023.112961 }
 
 
 The architecture was inspired by Improved Burned Area Mapping Using Monotemporal Landsat-9 Imagery and Convolutional Shift-Transformer published in Measurement Journal 
