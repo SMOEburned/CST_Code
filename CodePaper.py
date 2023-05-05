@@ -49,13 +49,6 @@ class ConvLayer(nn.Module):
         x3=self.BATCHnorm3(x3) 
         x4=  x2  +x3             
         return x4
- class UpScaleSubpixel(nn.Module):
-    def __init__(self, SCALE=scale_Value):
-        super(UpScaleSubpixel, self).__init__()
-        self.SCL = nn.PixelShuffle(upscale_factor=SCALE)
-    def forward(self, x):
-        x = self.SCL(x)
-        return x   
     
 class GroupNorm(nn.GroupNorm):
 
