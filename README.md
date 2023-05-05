@@ -11,5 +11,8 @@ Link= {https://doi.org/10.1016/j.measurement.2023.112961 }
 
 The architecture was inspired by Improved Burned Area Mapping Using Monotemporal Landsat-9 Imagery and Convolutional Shift-Transformer published in Measurement Journal 
 
+![image](https://user-images.githubusercontent.com/117136402/236385448-6f7bc2e8-f619-471a-9967-4f6096ce0493.png)
 
-![image](https://user-images.githubusercontent.com/117136402/200093466-ffdd6963-d707-4992-b82c-6c1a1e44d1ec.png)
+
+
+
